@@ -5,7 +5,7 @@ public abstract class Protection : Item
 {
     public String name;
     public int armor;
-    
+   
     public void apply(Character character)
     {
         character.items.Add(this);
@@ -20,5 +20,10 @@ public abstract class Protection : Item
         {
             Console.WriteLine("Item not added");
         }
+    }
+
+    public override string ToString()
+    {
+        return  name;
     }
 }

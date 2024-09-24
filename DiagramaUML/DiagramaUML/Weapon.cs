@@ -21,4 +21,8 @@ public abstract class Weapon : Item
             Console.WriteLine("Item not added");
         }
     }
+    public override string ToString()
+    {
+        return  name;
+    }
 }

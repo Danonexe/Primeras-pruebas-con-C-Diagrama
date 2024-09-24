@@ -89,4 +89,17 @@ public class Character
                 Console.WriteLine("item not found");
             }
         }
+          // for manual testing purposes
+            public override string ToString()
+            {
+                string result = $"Character: {name} | HP: {HpPoints}/{MaxHpPoints}\n";
+                result += "  Inventory:\n";
+                foreach (var item in items)
+                {
+                    result += $"    {item}\n";
+                }
+                result += $"  Attack: {Attack()}\n";
+                result += $"  Defense: {Defense()}\n";
+                return result;
+            }
 }
