@@ -1,0 +1,14 @@
+C:\Users\danie\RiderProjects\DiagramaUML\DiagramaUML\obj\Debug\net8.0\DiagramaUML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\RiderProjects\DiagramaUML\DiagramaUML\obj\Debug\net8.0\DiagramaUML.AssemblyInfoInputs.cache
+C:\Users\danie\RiderProjects\DiagramaUML\DiagramaUML\obj\Debug\net8.0\DiagramaUML.AssemblyInfo.cs
+C:\Users\danie\RiderProjects\DiagramaUML\DiagramaUML\obj\Debug\net8.0\DiagramaUML.csproj.CoreCompileInputs.cache
+C:\Users\danie\RiderProjects\DiagramaUML\DiagramaUML\bin\Debug\net8.0\DiagramaUML.exe
+C:\Users\danie\RiderProjects\DiagramaUML\DiagramaUML\bin\Debug\net8.0\DiagramaUML.deps.json
+C:\Users\danie\RiderProjects\DiagramaUML\DiagramaUML\bin\Debug\net8.0\DiagramaUML.runtimeconfig.json
+C:\Users\danie\RiderProjects\DiagramaUML\DiagramaUML\bin\Debug\net8.0\DiagramaUML.dll
+C:\Users\danie\RiderProjects\DiagramaUML\DiagramaUML\bin\Debug\net8.0\DiagramaUML.pdb
+C:\Users\danie\RiderProjects\DiagramaUML\DiagramaUML\obj\Debug\net8.0\DiagramaUML.dll
+C:\Users\danie\RiderProjects\DiagramaUML\DiagramaUML\obj\Debug\net8.0\refint\DiagramaUML.dll
+C:\Users\danie\RiderProjects\DiagramaUML\DiagramaUML\obj\Debug\net8.0\DiagramaUML.pdb
+C:\Users\danie\RiderProjects\DiagramaUML\DiagramaUML\obj\Debug\net8.0\DiagramaUML.genruntimeconfig.cache
+C:\Users\danie\RiderProjects\DiagramaUML\DiagramaUML\obj\Debug\net8.0\ref\DiagramaUML.dll
